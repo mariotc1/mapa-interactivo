@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "name": "Fronteras de Género en Oriente Medio",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "afghanistan",
+        "name": "Afganistán",
+        "name_en": "Afghanistan",
+        "severity_level": 1,
+        "severity_label": "Restricciones Extremas",
+        "color": "#dc2626",
+        "transport_09h": "Prohibido usar transporte sin acompañante masculino (mahram). Ley de 2024 prohíbe a conductores transportar mujeres solas.",
+        "education_10h": "2.2 millones de niñas excluidas de educación secundaria y universitaria desde 2021. Cierre de institutos de Obstetricia y Enfermería en 2024.",
+        "health_12h": "Acceso severamente limitado sin mahram. Escasez crítica de profesionales sanitarias por prohibición de formación.",
+        "family_14h": "Tutela masculina total. 28.7% de menores de 18 años casadas. Ventas de niñas triplicadas desde 2021.",
+        "key_stat_1": "2.2M niñas sin escolarizar",
+        "key_stat_2": "28.7% matrimonio infantil",
+        "sources": "UNESCO 2024, Human Rights Watch 2024, UNICEF 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.71, 33.9391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "iran",
+        "name": "Irán",
+        "name_en": "Iran",
+        "severity_level": 2,
+        "severity_label": "Restricciones Severas",
+        "color": "#ea580c",
+        "transport_09h": "Segregación obligatoria en autobuses y metro. Mujeres casadas necesitan autorización del marido para pasaporte.",
+        "education_10h": "Acceso formal pero con barreras. Plan Noor (2024) castiga a mujeres sin velo con expulsión educativa. Matrimonio legal desde 13 años.",
+        "health_12h": "Acceso formal pero con barreras prácticas. Sin igualdad de derechos en decisiones de salud reproductiva.",
+        "family_14h": "Puesto 143/146 en brecha de género (WEF 2024). Madres pierden custodia a los 7 años. No ha ratificado CEDAW.",
+        "key_stat_1": "Puesto 143/146 brecha género",
+        "key_stat_2": "Edad matrimonio: 13 años",
+        "sources": "Amnesty International 2025, Human Rights Watch 2024, World Economic Forum 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.688, 32.4279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "iraq",
+        "name": "Irak",
+        "name_en": "Iraq",
+        "severity_level": 3,
+        "severity_label": "Restricciones Altas",
+        "color": "#f97316",
+        "transport_09h": "Sin restricciones legales formales pero inseguridad extrema. Conflictos han creado entornos de riesgo en espacio público.",
+        "education_10h": "Tasas menores en zonas rurales. Propuesta de reforma 2024 permitiría matrimonio desde 9 años.",
+        "health_12h": "Sistema deteriorado por conflictos. Sin certificado civil, mujeres no pueden dar a luz en hospitales.",
+        "family_14h": "Reforma propuesta: custodia al padre desde 2 años. Una de las tasas más altas de matrimonio infantil en la región.",
+        "key_stat_1": "Propuesta matrimonio 9 años",
+        "key_stat_2": "Alta tasa matrimonio infantil",
+        "sources": "Human Rights Watch 2024, Humanium 2024, Parlamento Europeo 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.6793, 33.2232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "syria",
+        "name": "Siria",
+        "name_en": "Syria",
+        "severity_level": 3,
+        "severity_label": "Restricciones por Conflicto",
+        "color": "#fb923c",
+        "transport_09h": "Conflicto desde 2011 ha destruido infraestructura. 7.2 millones desplazados internos. Exposición a violencia en desplazamientos.",
+        "education_10h": "Generaciones con educación interrumpida. Destrucción de escuelas. Restricciones en zonas bajo grupos armados.",
+        "health_12h": "16.7 millones necesitan asistencia humanitaria. Partos en condiciones de extrema precariedad.",
+        "family_14h": "Código de familia restrictivo. Divorcio unilateral (talak) para hombres. Mujeres sin derechos legales como responsables de familia.",
+        "key_stat_1": "7.2M desplazados internos",
+        "key_stat_2": "16.7M necesitan ayuda",
+        "sources": "Freedom House 2024, Médicos del Mundo 2024, UNFPA 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.9968, 34.8021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "egypt",
+        "name": "Egipto",
+        "name_en": "Egypt",
+        "severity_level": 4,
+        "severity_label": "Desigualdades Importantes",
+        "color": "#fbbf24",
+        "transport_09h": "99% de mujeres ha sufrido acoso en espacios públicos. Transporte es segundo lugar con más acoso.",
+        "education_10h": "Avances en matriculación pero desigualdades en entorno rural. Presiones culturales para abandono escolar.",
+        "health_12h": "Acceso formalmente garantizado pero desigualdades estructurales. MGF afecta al 91% de mujeres.",
+        "family_14h": "Divorcio vía khul posible pero procesos desfavorables. Matrimonio infantil persiste en zonas rurales.",
+        "key_stat_1": "99% mujeres acosadas",
+        "key_stat_2": "91% MGF (mutilación genital)",
+        "sources": "ONU Mujeres 2013, UNICEF, IEMed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.8025, 26.8206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lebanon",
+        "name": "Líbano",
+        "name_en": "Lebanon",
+        "severity_level": 5,
+        "severity_label": "Desigualdades Estructurales",
+        "color": "#fcd34d",
+        "transport_09h": "Sin prohibiciones legales pero acceso condicionado por crisis económica desde 2019.",
+        "education_10h": "Acceso formal a todos los niveles con tasas relativamente altas. Crisis afecta al sistema educativo.",
+        "health_12h": "Crisis ha cerrado 98 centros de atención primaria. 5 hospitales no funcionan.",
+        "family_14h": "15 leyes de estatuto personal según comunidad religiosa. No existe código civil unificado de familia.",
+        "key_stat_1": "98 centros sanitarios cerrados",
+        "key_stat_2": "15 leyes según religión",
+        "sources": "Human Rights Watch 2024, UNFPA 2024, World Bank 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8623, 33.8547]
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "name": "Barreras_Educacion_Mujeres_Oriente_Medio",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Afganistán",
+        "pais_en": "Afghanistan",
+        "codigo_iso": "AFG",
+        "nivel_restriccion": 1,
+        "categoria": "Prohibición Total",
+        "color_hex": "#dc2626",
+        "descripcion": "Prohibición total de educación secundaria y universitaria para mujeres desde 2021.",
+        "dato_clave": "2.2 millones de niñas excluidas",
+        "porcentaje_afectado": "80% de mujeres en edad escolar",
+        "detalle": "Desde el regreso de los talibanes al poder en agosto de 2021, las niñas tienen prohibido cursar la educación secundaria y universitaria. En diciembre de 2024 se cerraron también los institutos de Obstetricia y Enfermería.",
+        "fuente": "UNESCO 2024, UNICEF 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.71, 33.94]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Irán",
+        "pais_en": "Iran",
+        "codigo_iso": "IRN",
+        "nivel_restriccion": 2,
+        "categoria": "Restricciones Severas",
+        "color_hex": "#ea580c",
+        "descripcion": "Acceso formal pero con expulsiones por no usar velo. Matrimonio legal desde los 13 años.",
+        "dato_clave": "Matrimonio desde 13 años",
+        "porcentaje_afectado": "Plan Noor 2024 castiga sin velo",
+        "detalle": "El Plan Noor (2024) castiga a las mujeres que no usan el velo obligatorio con expulsión de instituciones educativas. La edad mínima para el matrimonio de las niñas es 13 años.",
+        "fuente": "Amnesty International 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.69, 32.43]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Irak",
+        "pais_en": "Iraq",
+        "codigo_iso": "IRQ",
+        "nivel_restriccion": 3,
+        "categoria": "Restricciones Altas",
+        "color_hex": "#f97316",
+        "descripcion": "Propuesta de ley permitiría matrimonio desde los 9 años, afectando directamente la educación.",
+        "dato_clave": "Propuesta: matrimonio a los 9 años",
+        "porcentaje_afectado": "Alta tasa matrimonio infantil",
+        "detalle": "La propuesta de reforma de 2024 permitiría casar a niñas desde los 9 años. Las tasas de escolarización de niñas en zonas rurales y comunidades desplazadas son notablemente menores.",
+        "fuente": "Parlamento Europeo 2024, Humanium 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.68, 33.22]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Siria",
+        "pais_en": "Syria",
+        "codigo_iso": "SYR",
+        "nivel_restriccion": 4,
+        "categoria": "Impacto del Conflicto",
+        "color_hex": "#fb923c",
+        "descripcion": "El conflicto armado ha interrumpido la educación de generaciones enteras de niñas.",
+        "dato_clave": "Generaciones sin educación",
+        "porcentaje_afectado": "7.2 millones desplazados",
+        "detalle": "El conflicto armado sirio ha interrumpido la trayectoria educativa de generaciones enteras. La destrucción de escuelas y los desplazamientos masivos han privado a millones de niñas de educación.",
+        "fuente": "Freedom House 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0, 34.80]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Egipto",
+        "pais_en": "Egypt",
+        "codigo_iso": "EGY",
+        "nivel_restriccion": 5,
+        "categoria": "Desigualdades",
+        "color_hex": "#fbbf24",
+        "descripcion": "Avances en matriculación pero persisten desigualdades en zonas rurales y matrimonio temprano.",
+        "dato_clave": "Desigualdad rural persistente",
+        "porcentaje_afectado": "91% prevalencia MGF",
+        "detalle": "Egipto ha avanzado en términos de matriculación femenina, pero persisten desigualdades vinculadas al entorno rural, la pobreza y el matrimonio temprano.",
+        "fuente": "IEMed, UNICEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.80, 26.82]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pais": "Líbano",
+        "pais_en": "Lebanon",
+        "codigo_iso": "LBN",
+        "nivel_restriccion": 6,
+        "categoria": "Crisis Económica",
+        "color_hex": "#fcd34d",
+        "descripcion": "Acceso formal mantenido pero la crisis económica afecta gravemente al sistema educativo.",
+        "dato_clave": "Sistema educativo en crisis",
+        "porcentaje_afectado": "1M+ refugiados",
+        "detalle": "Las mujeres tienen acceso formal a todos los niveles educativos. Sin embargo, la grave crisis económica desde 2019 ha afectado profundamente al sistema educativo.",
+        "fuente": "Human Rights Watch 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.86, 33.85]
+      }
+    }
+  ]
+}
